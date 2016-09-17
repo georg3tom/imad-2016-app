@@ -1,2 +1,2 @@
-prompt.console("bro");
+prompt("bro");
 console.log('Loaded!');
